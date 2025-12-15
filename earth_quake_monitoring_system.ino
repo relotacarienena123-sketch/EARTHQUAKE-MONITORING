@@ -5,14 +5,15 @@
 // ===============================
 // WIFI CREDENTIALS
 // ===============================
-#define WIFI_SSID "Pogs"
-#define WIFI_PASSWORD "pogipads123"
+#define WIFI_SSID "tonton"
+#define WIFI_PASSWORD "relota123"
 
 // ===============================
 // FIREBASE CREDENTIALS
 // ===============================
-#define API_KEY "AIzaSyD1ZJIxjmJAgvqtMd-oBGpaO7vVi7LN_ks"
-#define DATABASE_URL "https://earthquake-monitoring-3dc40-default-rtdb.asia-southeast1.firebasedatabase.app"
+#define API_KEY "78A2jmR4Jn2dOsQ2NTB5Wwd1IK4vlLN3fu4LL40UM"
+#define DATABASE_URL "earthquake-monitoring-3dc40-default-rtdb.asia-southeast1.firebasedatabase.app"
+
 
 // ===============================
 // FIREBASE OBJECTS
